@@ -1,0 +1,148 @@
+<?xml version="1.0"?>
+<!DOCTYPE ggobidata SYSTEM "ggobi.dtd">
+
+<ggobidata count="2">
+<data name="mds">
+<description>
+This is XML created by GGobi
+</description>
+<variables count="3">
+   <realvariable name="V1" nickname="V1"/>
+   <realvariable name="V2" nickname="V2"/>
+   <realvariable name="V3" nickname="V3"/>
+</variables>
+<records count="21" glyph="fc 1" color="0">
+<record id="A" label="A">
+<real>-73.8724</real> <real>-31.7636</real> <real>46.7621</real>
+</record>
+<record id="B" label="B">
+<real>-51.4105</real> <real>-33.415</real> <real>33.2029</real>
+</record>
+<record id="C" label="C">
+<real>15.2612</real> <real>-27.2811</real> <real>36.6909</real>
+</record>
+<record id="D" label="D">
+<real>28.1368</real> <real>-8.70147</real> <real>42.3258</real>
+</record>
+<record id="E" label="E">
+<real>-39.8744</real> <real>-3.84513</real> <real>48.5788</real>
+</record>
+<record id="F" label="F">
+<real>-71.8176</real> <real>-7.5969</real> <real>-28.9139</real>
+</record>
+<record id="G" label="G">
+<real>-51.7972</real> <real>-15.5739</real> <real>-13.7512</real>
+</record>
+<record id="H" label="H">
+<real>-64.8462</real> <real>45.37</real> <real>-21.8616</real>
+</record>
+<record id="I" label="I">
+<real>-63.1494</real> <real>52.4317</real> <real>-7.6935</real>
+</record>
+<record id="J" label="J">
+<real>-48.3748</real> <real>32.1965</real> <real>-12.0441</real>
+</record>
+<record id="K" label="K">
+<real>-18.7861</real> <real>24.6225</real> <real>14.4371</real>
+</record>
+<record id="L" label="L">
+<real>3.60289</real> <real>26.4361</real> <real>17.762</real>
+</record>
+<record id="M" label="M">
+<real>10.1023</real> <real>-17.3565</real> <real>-38.5447</real>
+</record>
+<record id="N" label="N">
+<real>4.99642</real> <real>-22.1757</real> <real>-18.4496</real>
+</record>
+<record id="O" label="O">
+<real>54.1444</real> <real>15.7301</real> <real>-10.0548</real>
+</record>
+<record id="P" label="P">
+<real>66.4125</real> <real>20.4596</real> <real>7.48289</real>
+</record>
+<record id="Q" label="Q">
+<real>40.7458</real> <real>0.843922</real> <real>-2.20403</real>
+</record>
+<record id="R" label="R">
+<real>-6.86599</real> <real>14.2584</real> <real>5.13858</real>
+</record>
+<record id="S" label="S">
+<real>0.278248</real> <real>25.8359</real> <real>12.1543</real>
+</record>
+<record id="T" label="T">
+<real>61.0267</real> <real>24.8345</real> <real>6.17017</real>
+</record>
+<record id="U" label="U">
+<real>11.952</real> <real>-22.5964</real> <real>-15.3082</real>
+</record>
+</records>
+</data>
+<edges count="33" name="edges" color="0" glyphType="fc" glyphSize="1">
+<edge id="0" source="A" destination="B" label="AB">
+</edge>
+<edge id="1" source="A" destination="E" label="AB">
+</edge>
+<edge id="2" source="A" destination="F" label="AF">
+</edge>
+<edge id="3" source="B" destination="C" label="BC">
+</edge>
+<edge id="4" source="B" destination="G" label="BG">
+</edge>
+<edge id="5" source="C" destination="D" label="CD">
+</edge>
+<edge id="6" source="C" destination="Q" label="CQ">
+</edge>
+<edge id="7" source="D" destination="E" label="DE">
+</edge>
+<edge id="8" source="D" destination="P" label="DP">
+</edge>
+<edge id="9" source="F" destination="G" label="FG">
+</edge>
+<edge id="10" source="F" destination="H" label="FH">
+</edge>
+<edge id="11" source="F" destination="M" label="FM">
+</edge>
+<edge id="12" source="G" destination="J" label="GJ">
+</edge>
+<edge id="13" source="G" destination="N" label="GN">
+</edge>
+<edge id="14" source="H" destination="I" label="HI">
+</edge>
+<edge id="15" source="H" destination="J" label="HJ">
+</edge>
+<edge id="16" source="I" destination="K" label="IK">
+</edge>
+<edge id="17" source="J" destination="S" label="JS">
+</edge>
+<edge id="18" source="K" destination="L" label="KL">
+</edge>
+<edge id="19" source="K" destination="R" label="KR">
+</edge>
+<edge id="20" source="K" destination="S" label="KS">
+</edge>
+<edge id="21" source="L" destination="S" label="LS">
+</edge>
+<edge id="22" source="L" destination="T" label="LT">
+</edge>
+<edge id="23" source="M" destination="N" label="MN">
+</edge>
+<edge id="24" source="M" destination="O" label="MO">
+</edge>
+<edge id="25" source="M" destination="U" label="MU">
+</edge>
+<edge id="26" source="N" destination="U" label="NU">
+</edge>
+<edge id="27" source="O" destination="P" label="OP">
+</edge>
+<edge id="28" source="O" destination="R" label="OR">
+</edge>
+<edge id="29" source="O" destination="T" label="OT">
+</edge>
+<edge id="30" source="P" destination="T" label="PT">
+</edge>
+<edge id="31" source="Q" destination="U" label="QU">
+</edge>
+<edge id="32" source="Q" destination="P" label="PQ">
+</edge>
+</edges>
+</ggobidata>
