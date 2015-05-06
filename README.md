@@ -25,11 +25,11 @@ Each week two of the sculptures will be rotated into each others configuration. 
 
 Weekly rearrangements:
 
-Week 1: 1 <--> 9
-Week 2: 8 <--> 14
-Week 3: 4 <--> 5
-Week 4: 7 <--> 15
-Week 5: 2 <--> 13
+- Week 1: 1 <--> 9
+- Week 2: 8 <--> 14
+- Week 3: 4 <--> 5
+- Week 4: 7 <--> 15
+- Week 5: 2 <--> 13
 
 The sketch (sketch.jpg) was made to get a virtual representation of the sculptures, so that we could experiment with configurations. 
 
