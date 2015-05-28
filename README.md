@@ -30,8 +30,10 @@ Weekly rearrangements:
 - Week 3: 4 <--> 5
 - Week 4: 7 <--> 15
 - Week 5: 2 <--> 13
-- Week 6: 3 <--> 10
-- Week 7: 6 (now ED, K) <--> 12 (now DP, TL)
+- Week 6: 6 <--> 11
+- Week 7: 3 <--> 10
+- Week 8: 6 (now ED, K) <--> 12 (now DP, TL)
+- Week 9: 2 <--> 8
 
 The sketch (sketch.jpg) was made to get a virtual representation of the sculptures, so that we could experiment with configurations. 
 
