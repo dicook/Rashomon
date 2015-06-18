@@ -36,6 +36,7 @@ Weekly rearrangements:
 - Week 9: 2 <--> 8
 - Week 10: 9 <--> 12
 - Week 11 (June 11): 3 <--> 4
+- Week 12 13 <--> 14
 
 The sketch (sketch.jpg) was made to get a virtual representation of the sculptures, so that we could experiment with configurations. 
 
