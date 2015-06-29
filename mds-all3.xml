@@ -1,0 +1,797 @@
+<?xml version="1.0"?>
+<!DOCTYPE ggobidata SYSTEM "ggobi.dtd">
+
+<ggobidata count="3">
+<data name="mds3D">
+<description>
+This is XML created by GGobi
+</description>
+<variables count="3">
+   <realvariable name="MDS1" nickname="MD"/>
+   <realvariable name="MDS2" nickname="MD"/>
+   <realvariable name="MDS3" nickname="MD"/>
+</variables>
+<records count="21" glyph="fc 2" color="8">
+<record id="A" label="A">
+<real>-63.4045</real> <real>26.2095</real> <real>-1.12968</real>
+</record>
+<record id="B" label="B">
+<real>-52.2263</real> <real>8.49899</real> <real>6.86338</real>
+</record>
+<record id="C" label="C">
+<real>-11.1085</real> <real>-15.3481</real> <real>33.7364</real>
+</record>
+<record id="D" label="D">
+<real>2.59971</real> <real>-6.61282</real> <real>42.603</real>
+</record>
+<record id="E" label="E">
+<real>-40.2294</real> <real>26.611</real> <real>14.3716</real>
+</record>
+<record id="F" label="F">
+<real>-21.93</real> <real>12.0588</real> <real>-37.8786</real>
+</record>
+<record id="G" label="G">
+<real>-26.657</real> <real>-4.44907</real> <real>-11.6444</real>
+</record>
+<record id="H" label="H">
+<real>29.326</real> <real>42.762</real> <real>-31.583</real>
+</record>
+<record id="I" label="I">
+<real>22.0076</real> <real>42.1925</real> <real>-26.5987</real>
+</record>
+<record id="J" label="J">
+<real>31.5707</real> <real>30.8574</real> <real>-21.4366</real>
+</record>
+<record id="K" label="K">
+<real>7.9467</real> <real>28.4244</real> <real>28.3694</real>
+</record>
+<record id="L" label="L">
+<real>21.775</real> <real>11.4795</real> <real>28.2609</real>
+</record>
+<record id="M" label="M">
+<real>-21.5793</real> <real>-36.9293</real> <real>-26.0959</real>
+</record>
+<record id="N" label="N">
+<real>-23.6931</real> <real>-37.3368</real> <real>-9.61015</real>
+</record>
+<record id="O" label="O">
+<real>29.1101</real> <real>-31.5086</real> <real>-14.7006</real>
+</record>
+<record id="P" label="P">
+<real>42.4616</real> <real>-28.1939</real> <real>0.469216</real>
+</record>
+<record id="Q" label="Q">
+<real>16.0768</real> <real>-34.2457</real> <real>-2.47844</real>
+</record>
+<record id="R" label="R">
+<real>12.3277</real> <real>14.1151</real> <real>10.1085</real>
+</record>
+<record id="S" label="S">
+<real>24.7805</real> <real>16.0559</real> <real>26.982</real>
+</record>
+<record id="T" label="T">
+<real>42.8605</real> <real>-22.7421</real> <real>0.149564</real>
+</record>
+<record id="U" label="U">
+<real>-22.0149</real> <real>-41.8987</real> <real>-8.75795</real>
+</record>
+</records>
+</data>
+<data name="distances">
+<description>
+This is XML created by GGobi
+</description>
+<variables count="3">
+   <realvariable name="d" nickname="d"/>
+   <realvariable name="delta" nickname="de"/>
+   <realvariable name="connect" nickname="co"/>
+</variables>
+<records count="210" glyph="fc 1" color="7" missingValue="na">
+<record source="I" destination="J" label="1">
+<real>17</real> <real>-1</real> <real>0</real>
+</record>
+<record source="I" destination="L" label="2">
+<real>62</real> <real>3</real> <real>0</real>
+</record>
+<record source="I" destination="M" label="3">
+<real>92</real> <real>18</real> <real>0</real>
+</record>
+<record source="I" destination="N" label="4">
+<real>95</real> <real>5</real> <real>0</real>
+</record>
+<record source="I" destination="O" label="5">
+<real>68</real> <real>37</real> <real>0</real>
+</record>
+<record source="I" destination="P" label="6">
+<real>77</real> <real>23</real> <real>0</real>
+</record>
+<record source="I" destination="Q" label="7">
+<real>81</real> <real>19</real> <real>0</real>
+</record>
+<record source="I" destination="R" label="8">
+<real>47</real> <real>18</real> <real>0</real>
+</record>
+<record source="I" destination="S" label="9">
+<real>59</real> <real>6</real> <real>0</real>
+</record>
+<record source="I" destination="T" label="10">
+<real>74</real> <real>16</real> <real>0</real>
+</record>
+<record source="I" destination="U" label="11">
+<real>98</real> <real>2</real> <real>0</real>
+</record>
+<record source="J" destination="K" label="12">
+<real>54</real> <real>1</real> <real>0</real>
+</record>
+<record source="J" destination="L" label="13">
+<real>53</real> <real>2</real> <real>0</real>
+</record>
+<record source="J" destination="M" label="14">
+<real>87</real> <real>18</real> <real>0</real>
+</record>
+<record source="J" destination="N" label="15">
+<real>90</real> <real>10</real> <real>0</real>
+</record>
+<record source="J" destination="O" label="16">
+<real>55</real> <real>65</real> <real>0</real>
+</record>
+<record source="J" destination="P" label="17">
+<real>64</real> <real>56</real> <real>0</real>
+</record>
+<record source="J" destination="Q" label="18">
+<real>70</real> <real>40</real> <real>0</real>
+</record>
+<record source="J" destination="R" label="19">
+<real>40</real> <real>15</real> <real>0</real>
+</record>
+<record source="J" destination="T" label="20">
+<real>59</real> <real>61</real> <real>0</real>
+</record>
+<record source="J" destination="U" label="21">
+<real>92</real> <real>8</real> <real>0</real>
+</record>
+<record source="K" destination="M" label="22">
+<real>91</real> <real>-1</real> <real>0</real>
+</record>
+<record source="K" destination="N" label="23">
+<real>83</real> <real>-3</real> <real>0</real>
+</record>
+<record source="K" destination="O" label="24">
+<real>77</real> <real>-17</real> <real>0</real>
+</record>
+<record source="K" destination="P" label="25">
+<real>71</real> <real>-6</real> <real>0</real>
+</record>
+<record source="K" destination="Q" label="26">
+<real>71</real> <real>-11</real> <real>0</real>
+</record>
+<record source="K" destination="T" label="27">
+<real>68</real> <real>-3</real> <real>0</real>
+</record>
+<record source="K" destination="U" label="28">
+<real>86</real> <real>4</real> <real>0</real>
+</record>
+<record source="L" destination="M" label="29">
+<real>85</real> <real>5</real> <real>0</real>
+</record>
+<record source="L" destination="N" label="30">
+<real>77</real> <real>8</real> <real>0</real>
+</record>
+<record source="L" destination="O" label="31">
+<real>63</real> <real>-3</real> <real>0</real>
+</record>
+<record source="L" destination="P" label="32">
+<real>52</real> <real>2</real> <real>0</real>
+</record>
+<record source="L" destination="Q" label="33">
+<real>56</real> <real>4</real> <real>0</real>
+</record>
+<record source="L" destination="R" label="34">
+<real>21</real> <real>-9</real> <real>0</real>
+</record>
+<record source="L" destination="U" label="35">
+<real>79</real> <real>6</real> <real>0</real>
+</record>
+<record source="M" destination="P" label="36">
+<real>68</real> <real>-8</real> <real>0</real>
+</record>
+<record source="M" destination="Q" label="37">
+<real>43</real> <real>2</real> <real>0</real>
+</record>
+<record source="M" destination="R" label="38">
+<real>72</real> <real>8</real> <real>0</real>
+</record>
+<record source="M" destination="S" label="39">
+<real>89</real> <real>1</real> <real>0</real>
+</record>
+<record source="M" destination="T" label="40">
+<real>71</real> <real>-11</real> <real>0</real>
+</record>
+<record source="N" destination="O" label="41">
+<real>60</real> <real>0</real> <real>0</real>
+</record>
+<record source="N" destination="P" label="42">
+<real>68</real> <real>-8</real> <real>0</real>
+</record>
+<record source="N" destination="Q" label="43">
+<real>41</real> <real>3</real> <real>0</real>
+</record>
+<record source="N" destination="R" label="44">
+<real>67</real> <real>8</real> <real>0</real>
+</record>
+<record source="N" destination="S" label="45">
+<real>81</real> <real>4</real> <real>0</real>
+</record>
+<record source="N" destination="T" label="46">
+<real>69</real> <real>-9</real> <real>0</real>
+</record>
+<record source="O" destination="Q" label="47">
+<real>27</real> <real>-12</real> <real>0</real>
+</record>
+<record source="O" destination="S" label="48">
+<real>64</real> <real>-4</real> <real>0</real>
+</record>
+<record source="O" destination="U" label="49">
+<real>59</real> <real>1</real> <real>0</real>
+</record>
+<record source="P" destination="R" label="50">
+<real>54</real> <real>6</real> <real>0</real>
+</record>
+<record source="P" destination="S" label="51">
+<real>55</real> <real>-1</real> <real>0</real>
+</record>
+<record source="P" destination="U" label="52">
+<real>66</real> <real>-11</real> <real>0</real>
+</record>
+<record source="Q" destination="R" label="53">
+<real>51</real> <real>-6</real> <real>0</real>
+</record>
+<record source="Q" destination="S" label="54">
+<real>58</real> <real>-4</real> <real>0</real>
+</record>
+<record source="Q" destination="T" label="55">
+<real>29</real> <real>-14</real> <real>0</real>
+</record>
+<record source="R" destination="S" label="56">
+<real>20</real> <real>-5</real> <real>0</real>
+</record>
+<record source="R" destination="T" label="57">
+<real>50</real> <real>10</real> <real>0</real>
+</record>
+<record source="R" destination="U" label="58">
+<real>69</real> <real>11</real> <real>0</real>
+</record>
+<record source="S" destination="T" label="59">
+<real>50</real> <real>3</real> <real>0</real>
+</record>
+<record source="S" destination="U" label="60">
+<real>84</real> <real>1</real> <real>0</real>
+</record>
+<record source="T" destination="U" label="61">
+<real>68</real> <real>-13</real> <real>0</real>
+</record>
+<record source="A" destination="B" label="62" color="5" glyph="fc 4">
+<real>23</real> <na/> <real>1</real>
+</record>
+<record source="A" destination="C" label="63">
+<real>75</real> <na/> <real>0</real>
+</record>
+<record source="A" destination="D" label="64">
+<real>86</real> <na/> <real>0</real>
+</record>
+<record source="A" destination="E" label="65" color="5" glyph="fc 4">
+<real>29</real> <na/> <real>1</real>
+</record>
+<record source="A" destination="F" label="66" color="5" glyph="fc 4">
+<real>57</real> <na/> <real>1</real>
+</record>
+<record source="A" destination="G" label="67">
+<real>46</real> <na/> <real>0</real>
+</record>
+<record source="A" destination="H" label="68">
+<real>103</real> <na/> <real>0</real>
+</record>
+<record source="A" destination="I" label="69">
+<real>88</real> <na/> <real>0</real>
+</record>
+<record source="A" destination="J" label="70">
+<real>95</real> <na/> <real>0</real>
+</record>
+<record source="A" destination="K" label="71">
+<real>76</real> <na/> <real>0</real>
+</record>
+<record source="A" destination="L" label="72">
+<real>90</real> <na/> <real>0</real>
+</record>
+<record source="A" destination="M" label="73">
+<real>80</real> <na/> <real>0</real>
+</record>
+<record source="A" destination="N" label="74">
+<real>75</real> <na/> <real>0</real>
+</record>
+<record source="A" destination="O" label="75">
+<real>110</real> <na/> <real>0</real>
+</record>
+<record source="A" destination="P" label="76">
+<real>119</real> <na/> <real>0</real>
+</record>
+<record source="A" destination="Q" label="77">
+<real>100</real> <na/> <real>0</real>
+</record>
+<record source="A" destination="R" label="78">
+<real>78</real> <na/> <real>0</real>
+</record>
+<record source="A" destination="S" label="79">
+<real>93</real> <na/> <real>0</real>
+</record>
+<record source="A" destination="T" label="80">
+<real>117</real> <na/> <real>0</real>
+</record>
+<record source="A" destination="U" label="81">
+<real>80</real> <na/> <real>0</real>
+</record>
+<record source="B" destination="C" label="82" color="5" glyph="fc 4">
+<real>54</real> <na/> <real>1</real>
+</record>
+<record source="B" destination="D" label="83">
+<real>66</real> <real>-6</real> <real>0</real>
+</record>
+<record source="B" destination="E" label="84">
+<real>21</real> <real>9</real> <real>0</real>
+</record>
+<record source="B" destination="F" label="85">
+<real>54</real> <real>3</real> <real>0</real>
+</record>
+<record source="B" destination="G" label="86" color="5" glyph="fc 4">
+<real>34</real> <na/> <real>1</real>
+</record>
+<record source="B" destination="H" label="87">
+<real>96</real> <na/> <real>0</real>
+</record>
+<record source="B" destination="I" label="88">
+<real>88</real> <real>4</real> <real>0</real>
+</record>
+<record source="B" destination="J" label="89">
+<real>91</real> <real>-3</real> <real>0</real>
+</record>
+<record source="B" destination="K" label="90">
+<real>67</real> <real>8</real> <real>0</real>
+</record>
+<record source="B" destination="L" label="91">
+<real>77</real> <real>9</real> <real>0</real>
+</record>
+<record source="B" destination="M" label="92">
+<real>63</real> <real>45</real> <real>0</real>
+</record>
+<record source="B" destination="N" label="93">
+<real>55</real> <real>45</real> <real>0</real>
+</record>
+<record source="B" destination="O" label="94">
+<real>96</real> <real>24</real> <real>0</real>
+</record>
+<record source="B" destination="P" label="95">
+<real>101</real> <real>14</real> <real>0</real>
+</record>
+<record source="B" destination="Q" label="96">
+<real>80</real> <na/> <real>0</real>
+</record>
+<record source="B" destination="R" label="97">
+<real>65</real> <real>5</real> <real>0</real>
+</record>
+<record source="B" destination="S" label="98">
+<real>80</real> <real>3</real> <real>0</real>
+</record>
+<record source="B" destination="T" label="99">
+<real>100</real> <real>15</real> <real>0</real>
+</record>
+<record source="B" destination="U" label="100">
+<real>61</real> <real>39</real> <real>0</real>
+</record>
+<record source="C" destination="D" label="101" color="5" glyph="fc 4">
+<real>20</real> <na/> <real>1</real>
+</record>
+<record source="C" destination="E" label="102">
+<real>55</real> <real>-5</real> <real>0</real>
+</record>
+<record source="C" destination="F" label="103">
+<real>77</real> <real>23</real> <real>0</real>
+</record>
+<record source="C" destination="G" label="104">
+<real>55</real> <real>5</real> <real>0</real>
+</record>
+<record source="C" destination="I" label="105">
+<real>90</real> <real>20</real> <real>0</real>
+</record>
+<record source="C" destination="J" label="106">
+<real>83</real> <real>35</real> <real>0</real>
+</record>
+<record source="C" destination="K" label="107">
+<real>49</real> <real>21</real> <real>0</real>
+</record>
+<record source="C" destination="L" label="108">
+<real>43</real> <real>17</real> <real>0</real>
+</record>
+<record source="C" destination="M" label="109">
+<real>63</real> <na/> <real>0</real>
+</record>
+<record source="C" destination="N" label="110">
+<real>50</real> <real>10</real> <real>0</real>
+</record>
+<record source="C" destination="O" label="111">
+<real>72</real> <real>8</real> <real>0</real>
+</record>
+<record source="C" destination="P" label="112">
+<real>62</real> <real>-7</real> <real>0</real>
+</record>
+<record source="C" destination="Q" label="113" color="5" glyph="fc 4">
+<real>48</real> <na/> <real>1</real>
+</record>
+<record source="C" destination="R" label="114">
+<real>44</real> <real>6</real> <real>0</real>
+</record>
+<record source="C" destination="S" label="115">
+<real>48</real> <real>12</real> <real>0</real>
+</record>
+<record source="C" destination="T" label="116">
+<real>62</real> <real>-4</real> <real>0</real>
+</record>
+<record source="C" destination="U" label="117">
+<real>51</real> <real>4</real> <real>0</real>
+</record>
+<record source="D" destination="E" label="118" color="5" glyph="fc 4">
+<real>63</real> <na/> <real>1</real>
+</record>
+<record source="D" destination="G" label="119">
+<real>65</real> <real>15</real> <real>0</real>
+</record>
+<record source="D" destination="H" label="120">
+<real>96</real> <na/> <real>0</real>
+</record>
+<record source="D" destination="I" label="121">
+<real>86</real> <real>24</real> <real>0</real>
+</record>
+<record source="D" destination="J" label="122">
+<real>78</real> <real>19</real> <real>0</real>
+</record>
+<record source="D" destination="K" label="123">
+<real>38</real> <real>32</real> <real>0</real>
+</record>
+<record source="D" destination="L" label="124">
+<real>31</real> <real>29</real> <real>0</real>
+</record>
+<record source="D" destination="M" label="125">
+<real>79</real> <na/> <real>0</real>
+</record>
+<record source="D" destination="N" label="126">
+<real>66</real> <real>4</real> <real>0</real>
+</record>
+<record source="D" destination="O" label="127">
+<real>73</real> <real>7</real> <real>0</real>
+</record>
+<record source="D" destination="P" label="128" color="5" glyph="fc 4">
+<real>60</real> <na/> <real>1</real>
+</record>
+<record source="D" destination="Q" label="129">
+<real>54</real> <real>6</real> <real>0</real>
+</record>
+<record source="D" destination="R" label="130">
+<real>40</real> <real>20</real> <real>0</real>
+</record>
+<record source="D" destination="S" label="131">
+<real>35</real> <real>25</real> <real>0</real>
+</record>
+<record source="D" destination="T" label="132">
+<real>60</real> <real>0</real> <real>0</real>
+</record>
+<record source="D" destination="U" label="133">
+<real>67</real> <real>3</real> <real>0</real>
+</record>
+<record source="E" destination="F" label="134">
+<real>56</real> <real>4</real> <real>0</real>
+</record>
+<record source="E" destination="G" label="135">
+<real>61</real> <real>-3</real> <real>0</real>
+</record>
+<record source="E" destination="H" label="136">
+<real>88</real> <na/> <real>0</real>
+</record>
+<record source="E" destination="I" label="137">
+<real>77</real> <real>-8</real> <real>0</real>
+</record>
+<record source="E" destination="J" label="138">
+<real>81</real> <real>-14</real> <real>0</real>
+</record>
+<record source="E" destination="K" label="139">
+<real>53</real> <real>-23</real> <real>0</real>
+</record>
+<record source="E" destination="L" label="140">
+<real>68</real> <real>-36</real> <real>0</real>
+</record>
+<record source="E" destination="M" label="141">
+<real>76</real> <real>42</real> <real>0</real>
+</record>
+<record source="E" destination="N" label="142">
+<real>75</real> <real>38</real> <real>0</real>
+</record>
+<record source="E" destination="O" label="143">
+<real>97</real> <real>17</real> <real>0</real>
+</record>
+<record source="E" destination="P" label="144">
+<real>101</real> <real>13</real> <real>0</real>
+</record>
+<record source="E" destination="Q" label="145">
+<real>85</real> <real>27</real> <real>0</real>
+</record>
+<record source="E" destination="R" label="146">
+<real>56</real> <real>-18</real> <real>0</real>
+</record>
+<record source="E" destination="S" label="147">
+<real>68</real> <real>-30</real> <real>0</real>
+</record>
+<record source="E" destination="T" label="148">
+<real>98</real> <real>16</real> <real>0</real>
+</record>
+<record source="E" destination="U" label="149">
+<real>75</real> <real>38</real> <real>0</real>
+</record>
+<record source="F" destination="D" label="150">
+<real>85</real> <na/> <real>0</real>
+</record>
+<record source="F" destination="G" label="151" color="5" glyph="fc 4">
+<real>24</real> <na/> <real>1</real>
+</record>
+<record source="F" destination="I" label="152">
+<real>54</real> <real>3</real> <real>0</real>
+</record>
+<record source="F" destination="J" label="153">
+<real>59</real> <real>4</real> <real>0</real>
+</record>
+<record source="F" destination="K" label="154">
+<real>74</real> <real>-9</real> <real>0</real>
+</record>
+<record source="F" destination="L" label="155">
+<real>80</real> <real>-15</real> <real>0</real>
+</record>
+<record source="F" destination="M" label="156" color="5" glyph="fc 4">
+<real>52</real> <na/> <real>1</real>
+</record>
+<record source="F" destination="N" label="157">
+<real>57</real> <real>-2</real> <real>0</real>
+</record>
+<record source="F" destination="O" label="158">
+<real>68</real> <real>32</real> <real>0</real>
+</record>
+<record source="F" destination="P" label="159">
+<real>85</real> <real>25</real> <real>0</real>
+</record>
+<record source="F" destination="Q" label="160">
+<real>70</real> <real>30</real> <real>0</real>
+</record>
+<record source="F" destination="R" label="161">
+<real>58</real> <real>-8</real> <real>0</real>
+</record>
+<record source="F" destination="S" label="162">
+<real>79</real> <real>-19</real> <real>0</real>
+</record>
+<record source="F" destination="T" label="163">
+<real>82</real> <real>28</real> <real>0</real>
+</record>
+<record source="F" destination="U" label="164">
+<real>63</real> <real>-8</real> <real>0</real>
+</record>
+<record source="G" destination="H" label="165">
+<real>96</real> <na/> <real>0</real>
+</record>
+<record source="G" destination="I" label="166">
+<real>63</real> <real>21</real> <real>0</real>
+</record>
+<record source="G" destination="J" label="167" color="5" glyph="fc 4">
+<real>64</real> <na/> <real>1</real>
+</record>
+<record source="G" destination="K" label="168">
+<real>61</real> <real>4</real> <real>0</real>
+</record>
+<record source="G" destination="L" label="169">
+<real>66</real> <real>-1</real> <real>0</real>
+</record>
+<record source="G" destination="M" label="170">
+<real>42</real> <real>3</real> <real>0</real>
+</record>
+<record source="G" destination="N" label="171" color="5" glyph="fc 4">
+<real>39</real> <na/> <real>1</real>
+</record>
+<record source="G" destination="O" label="172">
+<real>64</real> <real>36</real> <real>0</real>
+</record>
+<record source="G" destination="P" label="173">
+<real>76</real> <real>29</real> <real>0</real>
+</record>
+<record source="G" destination="Q" label="174">
+<real>58</real> <real>32</real> <real>0</real>
+</record>
+<record source="G" destination="R" label="175">
+<real>48</real> <real>-3</real> <real>0</real>
+</record>
+<record source="G" destination="S" label="176">
+<real>67</real> <real>-7</real> <real>0</real>
+</record>
+<record source="G" destination="T" label="177">
+<real>75</real> <real>30</real> <real>0</real>
+</record>
+<record source="G" destination="U" label="178">
+<real>46</real> <real>-3</real> <real>0</real>
+</record>
+<record source="H" destination="C" label="179">
+<real>97</real> <na/> <real>0</real>
+</record>
+<record source="H" destination="F" label="180" color="5" glyph="fc 4">
+<real>61</real> <na/> <real>1</real>
+</record>
+<record source="H" destination="I" label="181" color="5" glyph="fc 4">
+<real>16</real> <na/> <real>1</real>
+</record>
+<record source="H" destination="J" label="182" color="5" glyph="fc 4">
+<real>18</real> <na/> <real>1</real>
+</record>
+<record source="H" destination="K" label="183">
+<real>70</real> <na/> <real>0</real>
+</record>
+<record source="H" destination="L" label="184">
+<real>71</real> <na/> <real>0</real>
+</record>
+<record source="H" destination="M" label="185">
+<real>92</real> <na/> <real>0</real>
+</record>
+<record source="H" destination="N" label="186">
+<real>97</real> <na/> <real>0</real>
+</record>
+<record source="H" destination="O" label="187">
+<real>99</real> <na/> <real>0</real>
+</record>
+<record source="H" destination="P" label="188">
+<real>78</real> <na/> <real>0</real>
+</record>
+<record source="H" destination="Q" label="189">
+<real>82</real> <na/> <real>0</real>
+</record>
+<record source="H" destination="R" label="190">
+<real>57</real> <na/> <real>0</real>
+</record>
+<record source="H" destination="S" label="191">
+<real>68</real> <na/> <real>0</real>
+</record>
+<record source="H" destination="T" label="192">
+<real>73</real> <na/> <real>0</real>
+</record>
+<record source="H" destination="U" label="193">
+<real>100</real> <na/> <real>0</real>
+</record>
+<record source="I" destination="K" label="194" color="5" glyph="fc 4">
+<real>57</real> <na/> <real>1</real>
+</record>
+<record source="J" destination="S" label="195" color="5" glyph="fc 4">
+<real>50</real> <na/> <real>1</real>
+</record>
+<record source="K" destination="L" label="196" color="5" glyph="fc 4">
+<real>22</real> <na/> <real>1</real>
+</record>
+<record source="K" destination="R" label="197" color="5" glyph="fc 4">
+<real>22</real> <na/> <real>1</real>
+</record>
+<record source="K" destination="S" label="198" color="5" glyph="fc 4">
+<real>20</real> <na/> <real>1</real>
+</record>
+<record source="L" destination="T" label="199" color="5" glyph="fc 4">
+<real>49</real> <na/> <real>1</real>
+</record>
+<record source="M" destination="N" label="200" color="5" glyph="fc 4">
+<real>18</real> <na/> <real>1</real>
+</record>
+<record source="M" destination="U" label="201" color="5" glyph="fc 4">
+<real>18</real> <na/> <real>1</real>
+</record>
+<record source="N" destination="U" label="202" color="5" glyph="fc 4">
+<real>6</real> <na/> <real>1</real>
+</record>
+<record source="O" destination="M" label="203" color="5" glyph="fc 4">
+<real>56</real> <na/> <real>1</real>
+</record>
+<record source="O" destination="P" label="204" color="5" glyph="fc 4">
+<real>25</real> <na/> <real>1</real>
+</record>
+<record source="O" destination="R" label="205" color="5" glyph="fc 4">
+<real>54</real> <na/> <real>1</real>
+</record>
+<record source="O" destination="T" label="206" color="5" glyph="fc 4">
+<real>25</real> <na/> <real>1</real>
+</record>
+<record source="P" destination="Q" label="207" color="5" glyph="fc 4">
+<real>26</real> <na/> <real>1</real>
+</record>
+<record source="P" destination="T" label="208" color="5" glyph="fc 4">
+<real>6</real> <na/> <real>1</real>
+</record>
+<record source="S" destination="L" label="209" color="5" glyph="fc 4">
+<real>5</real> <na/> <real>1</real>
+</record>
+<record source="U" destination="Q" label="210" color="5" glyph="fc 4">
+<real>38</real> <na/> <real>1</real>
+</record>
+</records>
+</data>
+<data name="MDS">
+<description>
+This is XML created by GGobi
+</description>
+<variables count="3">
+   <realvariable name="Pos1" nickname="Po"/>
+   <realvariable name="Pos2" nickname="Po"/>
+   <realvariable name="Pos3" nickname="Po"/>
+</variables>
+<records count="21" glyph="fc 2" color="8">
+<record id="A" label="A">
+<real>-2.35952</real> <real>1.00528</real> <real>-0.0306302</real>
+</record>
+<record id="B" label="B">
+<real>-1.94398</real> <real>0.327228</real> <real>0.256393</real>
+</record>
+<record id="C" label="C">
+<real>-0.404585</real> <real>-0.582615</real> <real>1.26032</real>
+</record>
+<record id="D" label="D">
+<real>0.0977165</real> <real>-0.256406</real> <real>1.5884</real>
+</record>
+<record id="E" label="E">
+<real>-1.52128</real> <real>0.996716</real> <real>0.532434</real>
+</record>
+<record id="F" label="F">
+<real>-0.815716</real> <real>0.462788</real> <real>-1.34288</real>
+</record>
+<record id="G" label="G">
+<real>-0.954832</real> <real>-0.00451068</real> <real>-0.530221</real>
+</record>
+<record id="H" label="H">
+<real>1.08951</real> <real>1.3936</real> <real>-1.28814</real>
+</record>
+<record id="I" label="I">
+<real>0.778092</real> <real>1.5763</real> <real>-0.950277</real>
+</record>
+<record id="J" label="J">
+<real>1.13205</real> <real>1.13619</real> <real>-0.747589</real>
+</record>
+<record id="K" label="K">
+<real>0.278071</real> <real>1.05224</real> <real>1.06153</real>
+</record>
+<record id="L" label="L">
+<real>0.788513</real> <real>0.416306</real> <real>1.0572</real>
+</record>
+<record id="M" label="M">
+<real>-0.789006</real> <real>-1.38651</real> <real>-0.934689</real>
+</record>
+<record id="N" label="N">
+<real>-0.866005</real> <real>-1.40626</real> <real>-0.338628</real>
+</record>
+<record id="O" label="O">
+<real>1.19729</real> <real>-0.964418</real> <real>-0.737278</real>
+</record>
+<record id="P" label="P">
+<real>1.56227</real> <real>-1.10174</real> <real>0.0509432</real>
+</record>
+<record id="Q" label="Q">
+<real>0.601198</real> <real>-1.29995</real> <real>-0.0589199</real>
+</record>
+<record id="R" label="R">
+<real>0.439507</real> <real>0.518512</real> <real>0.399623</real>
+</record>
+<record id="S" label="S">
+<real>0.896704</real> <real>0.588109</real> <real>1.01086</real>
+</record>
+<record id="T" label="T">
+<real>1.57951</real> <real>-0.885448</real> <real>0.0428945</real>
+</record>
+<record id="U" label="U">
+<real>-0.785513</real> <real>-1.5854</real> <real>-0.301338</real>
+</record>
+</records>
+</data>
+</ggobidata>
