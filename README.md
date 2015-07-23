@@ -41,7 +41,8 @@ Weekly rearrangements:
 - Week 14 (July 1) 1 <--> 6
 - Week 15 (July 9) 10 <--> 11
 - Week 16 (July 16) 7 (4) <--> 13 (8)
-
+- Week 17 (July 23) 14 <--> 15
+- 
 The sketch (sketch.jpg) was made to get a virtual representation of the sculptures, so that we could experiment with configurations. 
 
 We also measured the distances from some of the vertices to others, and estimated the remaining vertex to vertex distance. These are in the file distances-new.csv. The goal with this file is to use multidimensional scaling to automatically reconstruct the shapes. So far, not a complete success. The current best rendering is stored in mds3.xml. The two .moc files show movies of the current configuration. The file heatmap.png is a representation of the inter-vertex distances, which we have used to get better estimates of some of the distances. 
