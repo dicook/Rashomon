@@ -46,3 +46,21 @@ Weekly rearrangements:
 The sketch (sketch.jpg) was made to get a virtual representation of the sculptures, so that we could experiment with configurations. 
 
 We also measured the distances from some of the vertices to others, and estimated the remaining vertex to vertex distance. These are in the file distances-new.csv. The goal with this file is to use multidimensional scaling to automatically reconstruct the shapes. So far, not a complete success. The current best rendering is stored in mds3.xml. The two .moc files show movies of the current configuration. The file heatmap.png is a representation of the inter-vertex distances, which we have used to get better estimates of some of the distances. 
+
+Final configurations
+
+1. BC, NU
+2. DE, K
+3. AF, FM
+4. HJS, LT
+5. FM, FH, MO
+6. MOPU
+7. CDQP, U
+8. KLS, D
+9. ABCDE
+10. AE, IK
+11. DP, PT, TL, LS
+12. HIJKS
+13. PTO, H
+14. A, MNU
+15. AF, HI, FH
