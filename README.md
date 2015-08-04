@@ -11,7 +11,7 @@ Based on the sketch, these are the current configurations:
 4. HJS, LT
 5. FM, FH, MO
 6. MOPU
-7. CQ, QU
+7. CDQP, U
 8. KLS, D
 9. ABCDE
 10. AE, IK
