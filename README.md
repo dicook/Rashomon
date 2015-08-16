@@ -15,8 +15,8 @@ Based on the sketch, these are the current configurations:
 8. KLS, D
 9. ABCDE
 10. AE, IK
-11. DP, PT, TL, LS
-12. ED, K
+11. DPTLS
+12. HIJ, KS
 13. PTO, H
 14. A, MNU
 15. AF, HI, FH
